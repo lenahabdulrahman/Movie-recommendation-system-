@@ -26,10 +26,10 @@
 2. Answer the questions and get a movie.
 
 ## Features
-Choosing movie by your preferences
+Choosing movie by your preferences.
 
 ## Status
 Project is: _completed_.
 
 ## Inspiration
-Project for Foundations of declarative programming classes in Prolog
+Project for Foundations of declarative programming classes in Prolog.
