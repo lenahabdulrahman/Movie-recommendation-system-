@@ -10,7 +10,6 @@
   - [Features](#features)
   - [Status](#status)
   - [Inspiration](#inspiration)
-  - [Contact](#contact)
 
 ## Screenshots
 ![Example screenshot](ex1.jpeg)
