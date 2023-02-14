@@ -13,11 +13,11 @@
   - [Contact](#contact)
 
 ## Screenshots
-![Example screenshot](ex1.png)
+![Example screenshot](ex1.jpeg)
 
-![Example screenshot](ex2.png)
+![Example screenshot](ex2.jpeg)
 
-![Example screenshot](ex3.png)
+![Example screenshot](ex3.jpeg)
 
 ## Technologies
 * Prolog
