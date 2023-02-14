@@ -23,7 +23,7 @@
 * Prolog
 
 ## Setup
-1. Run ```start``` command
+1. Run ```start``` command to run the system.
 2. Answer the questions and get a movie to watch on Friday Night
 
 ## Features
